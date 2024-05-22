@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: /_config.yml/
+    url: /_config.yml
 
   - title: "Educations"
     url: /Educations/  
