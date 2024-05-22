@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "<p style="font-size:20px;">Dawei Yan</p>"
+  name             : "<p style="font-size:30px;">Dawei Yan</p>"
   pronouns         : # example: "she/her"  
   bio              : "wireless RF sensing, mobile computing and AI for sensing"
   location         : "Hefei Anhui, China"
