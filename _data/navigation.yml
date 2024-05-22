@@ -4,13 +4,13 @@ main:
     url: /about
 
   - title: "Educations"
-    url: /teaching/  
+    url: /teaching 
     
   - title: "News"
-    url: /talks/    
+    url: /talks   
 
   - title: "Publications"
-    url: /publications/
+    url: /publications
     
   - title: "Awards"
     url: /Awards/
